@@ -35,12 +35,12 @@ export const portfolioData = {
       repo: "https://github.com/anuelbare/profile-card.git",
     },
     {
-      title: "Color Guessing Game",
+      title: "Real Estate Listing",
       description:
-        "A fun game where users guess the correct color. Includes score tracking and reset.",
-      tech: ["HTML", "CSS", "JavaScript"],
-      live: "https://color-guesser-tau.vercel.app/",
-      repo: "https://github.com/anuelbare/color-guesser.git",
+        "A web app for listing and selling properties.",
+      tech: ["React", "CSS", "JavaScript"],
+      live: "https://real-estate2-sooty.vercel.app/",
+      repo: "https://github.com/HenryCage/Real-Estate.git",
     },
     {
       title: "Furniture Store",
@@ -54,7 +54,7 @@ export const portfolioData = {
       title: "Hospital Management System",
       description:
         "A receptionist-style dashboard layout for patient registration and admissions still under development (Backend-Focused).",
-      tech: ["React", "CSS"],
+      tech: ["React", "CSS", "JavaScript", "Node.js", "Express", "MongoDB"],
       live: "https://donor-management-system.vercel.app/",
       repo: "https://github.com/HenryCage/Hospital-Management-Systemm.git",
     },
