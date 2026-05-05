@@ -28,16 +28,14 @@ export const portfolioData = {
     },
     {
       title: "Profile Card",
-      description:
-        "My first profile card design.",
+      description: "My first profile card design.",
       tech: ["HTML", "CSS", "JavaScript"],
       live: "https://profile-card-delta-wine.vercel.app/",
       repo: "https://github.com/anuelbare/profile-card.git",
     },
     {
       title: "Real Estate Listing",
-      description:
-        "A web app for listing and selling properties.",
+      description: "A web app for listing and selling properties.",
       tech: ["React", "CSS", "JavaScript"],
       live: "https://real-estate2-sooty.vercel.app/",
       repo: "https://github.com/HenryCage/Real-Estate.git",
@@ -59,12 +57,18 @@ export const portfolioData = {
       repo: "https://github.com/HenryCage/Hospital-Management-Systemm.git",
     },
     {
-      title: "Auth UI Flow",
-      description:
-        "Login + role-based UI states (designed to plug into an API later).",
-      tech: ["React", "CSS"],
-      // live: "#",
-      repo: "https://github.com/HenryCage/authUiFlow.git",
+      title: "Blog Website",
+      description: "A blog website for sharing posts, comments and user ",
+      tech: [
+        "React",
+        "Tailwind",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+      ],
+      live: "https://bloggerspacebyanuel.vercel.app/",
+      repo: "https://github.com/HenryCage/blog.git",
     },
   ],
 };
